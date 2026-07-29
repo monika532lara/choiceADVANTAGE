@@ -19,7 +19,9 @@ Choice Advantages is a modern expense‑tracking and receipt management applicat
 
 ## Author
 **Name:** Monika Lara  
+
 **Email:** monika532lara@outlook.com
+
 **Website:** Choice Advantages  
 
 Bio: A passionate developer with mastery in coding, experienced in building scalable applications, and known for a helping nature. Dedicated to open‑source collaboration and knowledge sharing.
