@@ -18,13 +18,8 @@ Choice Advantages is a modern expense‑tracking and receipt management applicat
 - Node.js
 
 ## Author
-**Name:** Your A/C Name  
-**Email:** your a/c email id  
+**Name:** Monika Lara  
+**Email:** monika532lara@outlook.com
 **Website:** Choice Advantages  
 
 Bio: A passionate developer with mastery in coding, experienced in building scalable applications, and known for a helping nature. Dedicated to open‑source collaboration and knowledge sharing.
-
-## Getting Started
-### Clone the Repository:
-```bash
-git clone https://github.com/your-username/choice-advantages.git
