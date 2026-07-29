@@ -1,0 +1,21 @@
+
+```json
+{
+  "name": "choice-advantages",
+  "version": "1.0.0",
+  "description": "Expense tracking and receipt management app - Choice Advantages",
+  "main": "src/index/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "react-scripts test",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "author": "Your A/C Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  }
+}
