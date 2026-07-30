@@ -22,6 +22,6 @@ Choice Advantages is a modern expense‑tracking and receipt management applicat
 
 **Email:** monika532lara@outlook.com
 
-**Website:** Choice Advantages  
+**Website:** [Choice Advantages](https://www.choiceadvantages.com.co) 
 
 Bio: A passionate developer with mastery in coding, experienced in building scalable applications, and known for a helping nature. Dedicated to open‑source collaboration and knowledge sharing.
